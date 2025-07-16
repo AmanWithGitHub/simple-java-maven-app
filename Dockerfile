@@ -1,5 +1,5 @@
-# Use Maven to build the app
-FROM maven:3.9.6-eclipse-temurin-17 AS build
+# Use Maven 3.9.9 with JDK 17 to build the app
+FROM maven:3.9.9-eclipse-temurin-17 AS build
 
 # Set working directory
 WORKDIR /app
