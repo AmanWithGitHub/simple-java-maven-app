@@ -69,11 +69,8 @@
                   <version>[3.9.9,)</version>
                 </requireMavenVersion>
                 <requireJavaVersion>
-                  <version>[17,)</version> <!-- changed from [21,) to [17,) -->
+                  <version>[17,)</version>
                 </requireJavaVersion>
-                       <requireMavenVersion>
-  <version>[3.6.0,)</version> <!-- or [3.9.0,) -->
-</requireMavenVersion>
               </rules>
             </configuration>
           </execution>
