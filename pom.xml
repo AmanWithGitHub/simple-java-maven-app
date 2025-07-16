@@ -65,9 +65,9 @@
             </goals>
             <configuration>
               <rules>
-<!--                 <requireMavenVersion>
+                <requireMavenVersion>
                   <version>[3.9.9,)</version>
-                </requireMavenVersion> -->
+                </requireMavenVersion>
                 <requireJavaVersion>
                   <version>[17,)</version> <!-- changed from [21,) to [17,) -->
                 </requireJavaVersion>
